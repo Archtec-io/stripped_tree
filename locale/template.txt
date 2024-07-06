@@ -1,0 +1,4 @@
+# textdomain: stripped_tree
+Stripped=
+Chisel for Trunks=
+Tree Bark=
