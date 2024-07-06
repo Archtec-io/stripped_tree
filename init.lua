@@ -4,6 +4,7 @@ stripped_tree.S = minetest.get_translator("stripped_tree")
 local path = minetest.get_modpath("stripped_tree")
 
 dofile(path .. "/api.lua")
+dofile(path .. "/chisel.lua")
 dofile(path .. "/tree_bark.lua")
 
 -- Support for other mods
