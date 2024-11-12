@@ -3,6 +3,6 @@ globals = {
 }
 
 read_globals = {
-	"minetest",
+	"core",
 	table = {fields = {"copy"}},
 }
